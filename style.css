@@ -1,0 +1,16 @@
+
+#g {
+    color: red;
+    text-align: center;
+    font-size: 35px;
+}
+
+.i {
+    border: 0px solid yellow;
+    background-color: yellow;
+}
+
+.b {
+    color: blue;
+    font-size: 40px;
+}
